@@ -2,6 +2,12 @@
 
 ![Interactive butterfly before/after reveal preview](./assets/demo.webp)
 
+## Demo video
+
+[![Watch the interactive butterfly slider demo](./assets/demo.webp)](./assets/butterfly-slider-demo.mp4)
+
+[Watch the MP4 demo](./assets/butterfly-slider-demo.mp4)
+
 ## Summary
 
 These prompts create an interactive, full-bleed PowerPoint slide with a draggable before/after slider. The left side presents a photorealistic butterfly and the right side renders the same animated butterfly as live ASCII art, with both versions aligned and moving in lockstep.
@@ -89,10 +95,6 @@ The prompts are designed for Copilot in PowerPoint's interactive slide creation 
 
 - Copilot in PowerPoint with interactive slide creation available.
 - AI image generation available in your environment.
-
-## Planned update
-
-An animated GIF or video demonstrating the draggable reveal and butterfly animation will be added in a future update.
 
 ## Disclaimer
 
