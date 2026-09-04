@@ -1,12 +1,6 @@
 # Interactive Slider: Butterfly Before/After Reveal
 
-![Interactive butterfly before/after reveal preview](./assets/demo.webp)
-
-## Demo video
-
-[![Watch the interactive butterfly slider demo](./assets/demo.webp)](./assets/butterfly-slider-demo.mp4)
-
-[Watch the MP4 demo](./assets/butterfly-slider-demo.mp4)
+![Animated interactive butterfly slider demo](./assets/butterfly-slider-demo.gif)
 
 ## Summary
 
