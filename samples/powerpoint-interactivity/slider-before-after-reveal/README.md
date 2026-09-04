@@ -2,6 +2,10 @@
 
 ![Animated interactive butterfly slider demo](./assets/butterfly-slider-demo.gif)
 
+## Video walkthrough
+
+[![Watch the interactive butterfly slider video on YouTube](https://img.youtube.com/vi/x7xWJgRamtM/maxresdefault.jpg)](https://www.youtube.com/watch?v=x7xWJgRamtM)
+
 ## Summary
 
 These prompts create an interactive, full-bleed PowerPoint slide with a draggable before/after slider. The left side presents a photorealistic butterfly and the right side renders the same animated butterfly as live ASCII art, with both versions aligned and moving in lockstep.
