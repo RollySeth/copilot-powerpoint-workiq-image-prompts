@@ -91,8 +91,9 @@ The prompts are designed for Copilot in PowerPoint's interactive slide creation 
 
 ## Prerequisites
 
-- Copilot in PowerPoint with interactive slide creation available.
+- Copilot in PowerPoint with interactive slide creation available (currently available to Frontier audience on desktop and mac).
 - AI image generation available in your environment.
+
 
 ## Disclaimer
 
