@@ -4,6 +4,10 @@
 
 [Watch the walk-cycle animation walkthrough on YouTube](https://youtu.be/TCynPLiXnh0)
 
+## Sample output
+
+![Alternative walk-cycle animation made with PowerPoint](./assets/walk-cycle-sample-2-1920x1080.webp)
+
 ## Summary
 
 These prompts create a hand-drawn character illustration, convert it into a consistent six-frame walk cycle across six PowerPoint slides, and export the sequence as a looping animated GIF.
@@ -64,10 +68,6 @@ The sample includes these visual references:
 A six-frame animated GIF of the character walking continuously from left to right. The loop should preserve the blue background, white rectangular outline, character design, laptop, backpack, drawing style, scale, and camera angle.
 
 - [Download the original 1920x1080 animated GIF](./assets/walk-cycle-1920x1080.gif)
-
-## Another sample output
-
-![Alternative walk-cycle animation made with PowerPoint](./assets/walk-cycle-sample-2-1920x1080.webp)
 
 ## Use cases
 
