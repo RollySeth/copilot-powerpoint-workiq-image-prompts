@@ -43,9 +43,7 @@ The sample includes these visual references:
 1. A single-character source illustration generated from Prompt 1, with a blue background, white rectangular outline, laptop, and backpack.
 2. A six-slide overview showing the same character progressing through the complete walk cycle.
 3. The PowerPoint **Create an Animated GIF** export settings.
-4. A final-output still and an animated preview assembled from the six supplied frames at 0.5 seconds per frame.
-
-The original references and prompt are also available in the [source document](https://microsoft-my.sharepoint-df.com/:w:/p/rollys/cQq9cyphzUsEToyS4NcIu96oEgUCkJBSkOxbxaGecuXTRcowyA).
+4. The original high-resolution six-frame animated GIF.
 
 ## Instructions
 
@@ -63,7 +61,7 @@ The original references and prompt are also available in the [source document](h
 
 A six-frame animated GIF of the character walking continuously from left to right. The loop should preserve the blue background, white rectangular outline, character design, laptop, backpack, drawing style, scale, and camera angle.
 
-![Final walk-cycle output preview](./assets/final-output-preview.png)
+![Final animated walk-cycle GIF](./assets/walk-cycle.gif)
 
 ## Use cases
 
