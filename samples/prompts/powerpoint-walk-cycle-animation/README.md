@@ -1,9 +1,5 @@
 # Walk Cycle Animation with Copilot in PowerPoint
 
-[![Watch the high-resolution walk-cycle video](./assets/walk-cycle-poster-1920x1080.png)](./assets/walk-cycle-1920x1080.mp4)
-
-[Watch or download the 1920x1080 MP4 preview](./assets/walk-cycle-1920x1080.mp4)
-
 ## Summary
 
 These prompts create a hand-drawn character illustration, convert it into a consistent six-frame walk cycle across six PowerPoint slides, and export the sequence as a looping animated GIF.
@@ -63,7 +59,6 @@ The sample includes these visual references:
 
 A six-frame animated GIF of the character walking continuously from left to right. The loop should preserve the blue background, white rectangular outline, character design, laptop, backpack, drawing style, scale, and camera angle.
 
-- [Watch or download the 1920x1080 MP4 preview](./assets/walk-cycle-1920x1080.mp4)
 - [Download the original 1920x1080 animated GIF](./assets/walk-cycle-1920x1080.gif)
 
 ## Use cases
