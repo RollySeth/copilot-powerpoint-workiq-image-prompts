@@ -14,6 +14,12 @@ Sample prompts for Copilot in PowerPoint, including Microsoft 365 WorkIQ-grounde
 | ------ | ----------- |
 | [Interactive Slider: Butterfly Before/After Reveal](./samples/powerpoint-interactivity/slider-before-after-reveal) | Create a full-bleed PowerPoint slide with a draggable before/after slider that reveals a photographic butterfly transforming into animated ASCII art. |
 
+## PowerPoint animation prompts
+
+| Sample | Description |
+| ------ | ----------- |
+| [Walk Cycle Animation](./samples/prompts/powerpoint-walk-cycle-animation) | Generate a consistent six-frame character walk cycle across PowerPoint slides and export it as a looping animated GIF. |
+
 ## Disclaimer
 
 These samples are provided as-is without warranty of any kind. Review all generated output before sharing, especially when WorkIQ or profile data is used.
