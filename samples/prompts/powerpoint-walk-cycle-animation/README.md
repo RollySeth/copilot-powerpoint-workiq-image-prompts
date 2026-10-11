@@ -65,6 +65,10 @@ A six-frame animated GIF of the character walking continuously from left to righ
 
 - [Download the original 1920x1080 animated GIF](./assets/walk-cycle-1920x1080.gif)
 
+## Another sample output
+
+![Alternative walk-cycle animation made with PowerPoint](./assets/walk-cycle-sample-2-1920x1080.webp)
+
 ## Use cases
 
 - Create a lightweight character animation without dedicated animation software.
