@@ -1,5 +1,9 @@
 # Walk Cycle Animation with Copilot in PowerPoint
 
+## Video walkthrough
+
+[![Watch the walk-cycle animation walkthrough on YouTube](https://img.youtube.com/vi/TCynPLiXnh0/maxresdefault.jpg)](https://youtu.be/TCynPLiXnh0)
+
 ## Summary
 
 These prompts create a hand-drawn character illustration, convert it into a consistent six-frame walk cycle across six PowerPoint slides, and export the sequence as a looping animated GIF.
