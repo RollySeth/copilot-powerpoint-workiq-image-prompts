@@ -88,8 +88,7 @@ A six-frame animated GIF of the character walking continuously from left to righ
 
 ## Prerequisites
 
-- Copilot in PowerPoint with image generation and selected-image editing available.
-- PowerPoint desktop with animated GIF export support.
+- Copilot in PowerPoint with image generation.
 
 ## Disclaimer
 
