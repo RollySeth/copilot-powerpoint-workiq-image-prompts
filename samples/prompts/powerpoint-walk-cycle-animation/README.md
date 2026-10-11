@@ -2,7 +2,7 @@
 
 ## Video walkthrough
 
-[![Watch the walk-cycle animation walkthrough on YouTube](https://img.youtube.com/vi/TCynPLiXnh0/maxresdefault.jpg)](https://youtu.be/TCynPLiXnh0)
+[Watch the walk-cycle animation walkthrough on YouTube](https://youtu.be/TCynPLiXnh0)
 
 ## Summary
 
