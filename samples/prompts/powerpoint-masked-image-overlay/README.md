@@ -17,6 +17,10 @@ Keep the foreground panel completely flat and minimal. Keep the cutout organic a
 Do not render the subject as a separate object sitting on top of the panel. The subject must function as a transparent window revealing the background underneath.
 ```
 
+## Video
+
+[Watch the demo on YouTube](https://youtu.be/qnOJJbrQEXs)
+
 ## Description
 
 This prompt is designed for Copilot in PowerPoint when a slide has a background image and a person to use as the cutout. The result is a masked image overlay: the subject's silhouette acts as a transparent window in a solid panel, making the background appear through the person.

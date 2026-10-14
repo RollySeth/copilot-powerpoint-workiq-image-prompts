@@ -20,6 +20,10 @@ Keep the silhouette clean and simplified, with crisp edges and enough recognizab
 Use strong figure-ground contrast, generous negative space, asymmetrical composition, and a premium contemporary poster aesthetic. Avoid borders, outlines, drop shadows, bevels, or 3D effects.
 ```
 
+## Video
+
+[Watch the demo on YouTube](https://youtu.be/qnOJJbrQEXs)
+
 ## Description
 
 This prompt is designed for Copilot in PowerPoint when a slide has a background image. Replace "lily flower" with any recognizable subject (for example a leaf, animal, or landmark) and change the panel color if desired. The silhouette acts as a transparent window in the panel, so the background shows through it.
