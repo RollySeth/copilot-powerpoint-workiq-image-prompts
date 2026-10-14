@@ -55,7 +55,6 @@ This prompt is designed for Copilot in PowerPoint when a slide has a background 
 ## Prerequisites
 
 - Copilot in PowerPoint.
-- A slide with a background image.
 
 ## Help
 
