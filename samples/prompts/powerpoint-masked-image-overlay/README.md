@@ -23,7 +23,7 @@ Do not render the subject as a separate object sitting on top of the panel. The 
 
 ## Description
 
-This prompt is designed for Copilot in PowerPoint when a slide has a background image and a person to use as the cutout. The result is a masked image overlay: the subject's silhouette acts as a transparent window in a solid panel, making the background appear through the person.
+This prompt is designed for Copilot in PowerPoint when a slide has a background image. The result is a masked image overlay: the subject's silhouette acts as a transparent window in a solid panel, making the background appear through the person.
 
 ## Use cases
 
@@ -44,7 +44,7 @@ This prompt is designed for Copilot in PowerPoint when a slide has a background 
 ## Instructions
 
 1. Open PowerPoint.
-2. Add a background image and a photo of a person to a slide.
+2. Add a background image to a slide.
 3. Open Copilot in PowerPoint.
 4. Paste the prompt from the Prompt section.
 5. Review the generated slide, then add or adjust title text in the white panel.
@@ -52,7 +52,7 @@ This prompt is designed for Copilot in PowerPoint when a slide has a background 
 ## Prerequisites
 
 - Copilot in PowerPoint.
-- A slide with a background image and a photo of a person.
+- A slide with a background image.
 
 ## Help
 
