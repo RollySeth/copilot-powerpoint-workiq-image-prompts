@@ -2,6 +2,10 @@
 
 ![Animated typography curtain demo](./assets/curtain-demo.gif)
 
+## Video walkthrough
+
+[![Watch the animated typography curtain video on YouTube](https://img.youtube.com/vi/6T9COXcFR-c/maxresdefault.jpg)](https://www.youtube.com/watch?v=6T9COXcFR-c)
+
 ## Summary
 
 This prompt creates an interactive 16:9 PowerPoint slide in a warm, artisanal heritage style. A two-half curtain woven from repeating text hangs under a terracotta canopy and hides the slide copy. Drag, scroll, touch, or use the keyboard to open the curtain and reveal the title, with soft cloth physics and quiet chimes.
