@@ -1,5 +1,9 @@
 # Interactive Luminous Blob Profile
 
+## Video walkthrough
+
+[![Watch the interactive luminous blob profile video on YouTube](https://img.youtube.com/vi/mWMga7OZwyM/maxresdefault.jpg)](https://youtu.be/mWMga7OZwyM)
+
 ## Output references
 
 ### Silhouette view
@@ -53,7 +57,6 @@ The prompt combines a high-contrast album-cover composition with an interactive 
 ## Prerequisites
 
 - Copilot in PowerPoint with interactive slide creation available.
-- AI image generation available in your environment.
 
 ## Disclaimer
 
