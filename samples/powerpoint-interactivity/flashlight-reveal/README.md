@@ -61,7 +61,7 @@ The first prompt establishes the full-color source image. The second prompt pres
 
 ## Prerequisites
 
-- Copilot in PowerPoint with interactive slide creation available.
+- Copilot in PowerPoint with 'create interactive slide' skill available.
 
 ## Disclaimer
 
