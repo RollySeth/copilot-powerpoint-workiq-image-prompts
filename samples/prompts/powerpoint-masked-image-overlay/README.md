@@ -17,6 +17,19 @@ Keep the foreground panel completely flat and minimal. Keep the cutout organic a
 Do not render the subject as a separate object sitting on top of the panel. The subject must function as a transparent window revealing the background underneath.
 ```
 
+## Want to personalize?
+
+Use this generic prompt and replace each `[SUBJECT]` placeholder with the person, object, or shape you want to feature.
+
+```text
+Create a premium editorial poster composition with [SUBJECT] as the central graphic device.
+Use a full-bleed photographic or richly textured background. Overlay it with a large flat rectangular panel in a strongly contrasting solid color.
+Transform [SUBJECT] into a bold stencil-shaped cutout through the foreground panel. The background image must remain visible inside the cutout, creating the effect that the subject has been physically removed from the solid panel.
+Scale the cutout dramatically and crop portions of it against the panel boundaries. Let selected parts of the silhouette break through or extend toward the outer background to create depth and visual tension.
+Keep the foreground panel completely flat and minimal. Keep the cutout organic and expressive but instantly recognizable as [SUBJECT]. Use crisp masking, clean edges, strong negative space, sophisticated asymmetry, and an art-directed magazine/poster aesthetic.
+Do not render the subject as a separate object sitting on top of the panel. The subject must function as a transparent window revealing the background underneath.
+```
+
 ## Video
 
 [Watch the demo on YouTube](https://youtu.be/qnOJJbrQEXs)
