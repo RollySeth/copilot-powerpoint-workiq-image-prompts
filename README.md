@@ -21,6 +21,7 @@ Sample prompts for Copilot in PowerPoint, including Microsoft 365 WorkIQ-grounde
 | ------ | ----------- |
 | [Interactive Animated Typography Curtain](./samples/powerpoint-interactivity/animated-typography-curtain) | Create an interactive heritage-style slide where a cloth-simulated text curtain hides the title and opens with drag, scroll, touch, or keyboard. |
 | [Interactive Slider: Butterfly Before/After Reveal](./samples/powerpoint-interactivity/slider-before-after-reveal) | Create a full-bleed PowerPoint slide with a draggable before/after slider that reveals a photographic butterfly transforming into animated ASCII art. |
+| [Interactive Luminous Blob Profile](./samples/powerpoint-interactivity/luminous-blob-profile) | Create a futuristic profile slide with an electric-blue halo and an interactive flashlight beam that reveals an aligned full-color face using pointer, touch, or arrow keys. |
 
 ## PowerPoint animation prompts
 
